@@ -59,6 +59,7 @@ h4 {
 	-moz-transform: translate(-50%, -50%) scale(0);
 	-ms-transform: translate(-50%, -50%) scale(0);
 	-o-transform: translate(-50%, -50%) scale(0);
+    text-align: center;
 }
 
 .final.show {
